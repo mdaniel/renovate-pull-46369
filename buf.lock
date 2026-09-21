@@ -2,5 +2,5 @@
 version: v2
 deps:
   - name: buf.build/protocolbuffers/wellknowntypes
-    commit: ba48c1a6dc7d47d0aa9940aa3601b039
-    digest: b5:518345c7246eb721cad41bd6e0d03615f2dc7f5856570af20f67d8907390c546008d473f94bda34b41a3518c19e4aa1ebdb162ff0a12466cb35f99b5fa0001fe
+    commit: f1151727eddb493abf82a1d919dc35e4
+    digest: b5:e05c29a4347e1ef07cb978e9ece8a44c59c8cb6ff31884cd632f88266f81baaba7a67bcfc6ac52d8caada7f77faf2d37683af0d69755ef52d9f1288cd1fd5d93
