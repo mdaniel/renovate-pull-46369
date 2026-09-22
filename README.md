@@ -6,6 +6,7 @@
   - `remote: buf.build/grpc-ecosystem/gateway:v1.0.0` which is a valid-looking label but does not exist
   - `remote: buf.build/grpc/go:v1` which is malformed from buf's point of view, but leaves it intact since there is not v2
   - `remote: buf.build/connectrpc/gosimple` which is versionless, and thus we will skip it to allow it to continue to be versionless
+- buf.gen.rust.yaml is a simple version bump but in a non-default language filename
 
 
 # The Run
